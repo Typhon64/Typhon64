@@ -15,11 +15,10 @@
 
 I'm a passionate student developer exploring the vast universe of technology! 🌌
 
-- 🎓 Currently studying and building awesome projects
-- 🐧 Linux enthusiast and open-source advocate
-- 🌱 Always learning something new
-- 🎮 Gamer by night, coder by day
-- 🎨 Creative coder who loves to draw
+- 🎓 Student
+- 🐧 I love GNU/LİNUX
+- 🌱 I have a lot to learn
+- 😶‍🌫️ OSINT & OPSEC Specialist
 
 ## 💻 Tech Stack
 

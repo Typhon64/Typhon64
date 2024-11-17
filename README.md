@@ -87,7 +87,6 @@ Systems      █████░░░░░░░   50%
 
 <div align="center">
   
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]()
   [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:)
   
   <p>💬Connect me on Wired.</p>

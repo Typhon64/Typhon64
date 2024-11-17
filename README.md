@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Typhon (Typhon64) <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi0.wp.com%2Fwww.spielanime.com%2Fwp-content%2Fuploads%2F2023%2F06%2FThe-Serial-Experiment-Lain-explained-2.jpg%3Ffit%3D1024%252C576%26ssl%3D1&sp=1731850628Td4cdaf22ea5509ab0ecd917a2e64251a428ef6ed8dcbb3f76b163cdf5bb8ef1f" width="60">
+# Hello World! 👋 I'm Typhon (Typhon64) <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.dnxXLZa9JyzXyKba5S3GzwHaE8%26pid%3DApi&sp=1731850628Tf936f85f59445087a8840c03d58a8b4a8b07f9618c3bc13aa01ed26491809b0b" width="50">
 
 <div align="center">
   <img src="https://preview.redd.it/does-anyone-know-the-source-behind-this-image-v0-zyux2xhwkpja1.jpg?auto=webp&s=b2968a492b8192e35fec7962b76a701ff84efa6c" alt="Osiloskop"  width="300"/>

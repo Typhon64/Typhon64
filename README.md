@@ -13,6 +13,7 @@
 
 > *"In the digital jungle, cybersecurity is the unseen hand that keeps the predators at bay."* 
 
+...
 
 - 🎓 Student
 - 🐧 I love GNU/LİNUX

@@ -9,7 +9,7 @@
 
 </div>
 
-## 🚀 About Me
+## 🕊️ About Me
 
 > *"In the digital jungle, cybersecurity is the unseen hand that keeps the predators at bay."* 
 
@@ -22,7 +22,7 @@ I'm a passionate student developer exploring the vast universe of technology! �
 - 😶‍🌫️ OSINT & OPSEC Specialist
 
 
-## 💻 Tech Stack
+## 📈 Tech Stack
 
 ### Languages & Frameworks
 ```text

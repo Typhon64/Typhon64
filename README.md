@@ -19,6 +19,7 @@ I'm a passionate student developer exploring the vast universe of technology! �
 - 🐧 I love GNU/LİNUX
 - 🌱 I have a lot to learn
 - 😶‍🌫️ OSINT & OPSEC Specialist
+- Cyber Security
 
 ## 💻 Tech Stack
 

@@ -53,7 +53,7 @@ Systems      █████░░░░░░░   50%
     <a href="#"><img src="https://img.shields.io/badge/VSCodium-%232C7BBF.svg?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium"/></a>
    <a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/></a>
   <a href="#"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%231A1A1A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Vim-%23030C02.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/></a>
@@ -66,6 +66,11 @@ Systems      █████░░░░░░░   50%
 <a href="#"><img src="https://img.shields.io/badge/LibreOffice-%2316C60C.svg?style=for-the-badge&logo=libreoffice&logoColor=white" alt="LibreOffice"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Cloudflare-%23006EC6.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Photoshop-%23001E36.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GIMP-%234A0851.svg?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-%2314A800.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Virt%20Manager-%23006699.svg?style=for-the-badge&logo=virt-manager&logoColor=white" alt="Virt Manager"/></a>
+<a href="#"><img src="https://img.shields.io/badge/VirtualBox-%233E8DCC.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/></a>
  </td>
   </tr>
   <tr>

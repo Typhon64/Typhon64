@@ -63,7 +63,7 @@ Systems      █████░░░░░░░   50%
       <a href="#"><img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Windows%2011-%23008CFF.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/></a>
 
-    </td>
+  </td>
   </tr>
 </table>
 

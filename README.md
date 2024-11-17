@@ -1,7 +1,7 @@
 # Hello World! 👋 I'm Typhon (Typhon64) <img src="" width="30">
 
 <div align="center">
-  <img src="https://preview.redd.it/does-anyone-know-the-source-behind-this-image-v0-zyux2xhwkpja1.jpg?auto=webp&s=b2968a492b8192e35fec7962b76a701ff84efa6c" alt="Osiloskop" width="100%">
+  <img src="https://preview.redd.it/does-anyone-know-the-source-behind-this-image-v0-zyux2xhwkpja1.jpg?auto=webp&s=b2968a492b8192e35fec7962b76a701ff84efa6c" alt="Osiloskop"  width="600"/>
   
 [![GitHub followers](https://img.shields.io/github/followers/Typhon64?style=for-the-badge&logo=github)](https://github.com/Typhon64?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Typhon64?style=for-the-badge&logo=github)](https://github.com/Typhon64?tab=stars)

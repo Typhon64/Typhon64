@@ -116,5 +116,6 @@ Systems      █████░░░░░░░   50%
 </div>
 
 <div align="center">
-  <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn4.geckoandfly.com%2Fwp-content%2Fuploads%2F2016%2F04%2Felon-musk-quotes-09.jpg&sp=1731844600T61f866609d91e48d62bbf1c2788a4d2f2aabb44992e90a0e23e254f49d9026fc" alt="Elon Musk Quote" width="600"/>
+  <img src="https://cdn4.geckoandfly.com/wp-content/uploads/2016/04/elon-musk-quotes-09.jpg" alt="Elon Musk Quote" width="600"/>
 </div>
+

@@ -31,7 +31,7 @@ Systems      █████░░░░░░░   50%
 ```
 
 #### 🎨 Frontend
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://www.w3schools.com/html/html_scripts.asp)
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://www.w3schools.com/)
 
 #### 🔧 Backend
 [![My Backend Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)

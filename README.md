@@ -99,9 +99,9 @@ Systems      █████░░░░░░░   50%
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=typhon64&theme=midnight-blue)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=typhon64&theme=midnight)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&layout=compact&theme=midnight-blue)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&layout=compact&theme=midnight)
   
 </div>
 

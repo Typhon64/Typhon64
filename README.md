@@ -31,13 +31,13 @@ Systems      █████░░░░░░░   50%
 ```
 
 #### 🎨 Frontend
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/codiwithsarthak)
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://www.w3schools.com/html/html_scripts.asp)
 
 #### 🔧 Backend
-[![My Backend Skills](https://skillicons.dev/icons?i=python)](https://github.com/codiwithsarthak)
+[![My Backend Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 
 #### ⚙️ Other Languages
-[![Other Languages](https://skillicons.dev/icons?i=lua,c,bash)](https://github.com/codiwithsarthak)
+[![Other Languages](https://skillicons.dev/icons?i=lua,c,bash)](https://github.com/typhon64)
 
 ### 🛠️ Development Environment
 

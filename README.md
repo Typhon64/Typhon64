@@ -9,7 +9,7 @@
 
 </div>
 
-## 🕊️ About Me
+## 🤖 About Me
 
 > *"In the digital jungle, cybersecurity is the unseen hand that keeps the predators at bay."* 
 

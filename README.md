@@ -60,9 +60,9 @@ Systems      █████░░░░░░░   50%
     <td>
       <a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/></a>
-      <a href="#"><img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ax6UFGJvBo4icXGjy8Q7XAHaHa%26pid%3DApi&sp=1731851146T0bc2a91a806306ad57f6a772700cd4423b19a2bdd48bc7bfd2cd949983e80771" alt="Ubuntu"/></a>
-      <a href="#"><img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.CJi6wXVNYWn3LEnyVo5wwgHaHa%26pid%3DApi&sp=1731851060T1178a41521485215f6ced940798c33fdd26a80994f964811f6e56645c59cab3d" alt="Windows 11"/></a>
-      
+      <a href="#"><img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Windows%2011-%23008CFF.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/></a>
+
     </td>
   </tr>
 </table>

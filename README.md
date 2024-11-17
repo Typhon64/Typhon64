@@ -99,11 +99,12 @@ Systems      █████░░░░░░░   50%
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=typhon64&theme=tokyonight)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=typhon64&theme=midnight-purple)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&layout=compact&theme=midnight-purple)
   
 </div>
+
 
 ## 🤝 Let's Connect!
 

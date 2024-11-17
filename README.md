@@ -13,7 +13,7 @@
 
 > *"In the digital jungle, cybersecurity is the unseen hand that keeps the predators at bay."* 
 
-...
+Playing CTF is so much fun
 
 - 🎓 Student
 - 🐧 I love GNU/LİNUX

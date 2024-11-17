@@ -48,8 +48,8 @@ Systems      █████░░░░░░░   50%
     <th>Tools</th>
   </tr>
   <tr>
-    <td></td>
-    <td>Tools i know or/and use
+    <td>Tools i know or/and use</td>
+    <td>
       <a href="#"><img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/></a>
       <a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/></a>
       <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/></a>

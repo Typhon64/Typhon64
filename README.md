@@ -2,8 +2,6 @@
 <img src="https://moe-counter.glitch.me/get/@:typhon64?theme=rule34">  
 </div>
 
-## 🤖 About Me
-
 > *"In the digital jungle, cybersecurity is the unseen hand that keeps the predators at bay."* 
 
 Playing CTF is so much fun

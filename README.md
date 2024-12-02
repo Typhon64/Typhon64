@@ -2,11 +2,6 @@
 
 <div align="center">
 <img src="https://moe-counter.glitch.me/get/@:typhon64?theme=rule34">  
-  
-[![GitHub followers](https://img.shields.io/github/followers/Typhon64?style=for-the-badge&logo=github)](https://github.com/Typhon64?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Typhon64?style=for-the-badge&logo=github)](https://github.com/Typhon64?tab=stars)
-
-
 </div>
 
 ## 🤖 About Me

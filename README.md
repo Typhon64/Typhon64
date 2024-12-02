@@ -5,7 +5,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Typhon64?style=for-the-badge&logo=github)](https://github.com/Typhon64?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Typhon64?style=for-the-badge&logo=github)](https://github.com/Typhon64?tab=stars)
-[![Profile Views](https://komarev.com/ghpvc/?username=Typhon64&style=for-the-badge)](https://github.com/Typhon64)
+
 
 </div>
 

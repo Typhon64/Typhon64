@@ -22,8 +22,6 @@ Playing CTF is so much fun
 #### ⚙️ Other Languages
 [![Other Languages](https://skillicons.dev/icons?i=lua,c,bash)](https://github.com/typhon64)
 
-### 🛠️ Development Environment
-
 <table>
   <tr>
     <th>Category</th>

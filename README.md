@@ -1,5 +1,3 @@
-<img src="https://static.wikia.nocookie.net/sel/images/5/50/Serial_Experiments_Lain_13_ENDEnglish_dubbed_14-23_screenshot.png/revision/latest/scale-to-width-down/1000?cb=20200925171511" width="40">
-
 <div align="center">
 <img src="https://moe-counter.glitch.me/get/@:typhon64?theme=rule34">  
 </div>

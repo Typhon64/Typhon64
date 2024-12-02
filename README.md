@@ -11,13 +11,11 @@
 - 😶‍🌫️ OSINT & OPSEC Specialist
 
 
-#### 🎨 Frontend
+#### Languages i know
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://www.w3schools.com/)
 
-#### 🔧 Backend
 [![My Backend Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 
-#### ⚙️ Other Languages
 [![Other Languages](https://skillicons.dev/icons?i=lua,c,bash)](https://github.com/typhon64)
 
 <table>

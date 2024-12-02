@@ -15,15 +15,6 @@ Playing CTF is so much fun
 - 😶‍🌫️ OSINT & OPSEC Specialist
 
 
-## 📈 Tech Stack
-
-### Languages & Frameworks
-```text
-Frontend     ███████░░░░   60%
-Backend      ████░░░░░   40%
-Systems      █████░░░░░░░   50%
-```
-
 #### 🎨 Frontend
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://www.w3schools.com/)
 

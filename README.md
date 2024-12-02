@@ -91,7 +91,7 @@ Systems      █████░░░░░░░   50%
 </div>
 
 
-## 🤝 Let's Connect!
+## 🤝 Contact me
 
 <div align="center">
   

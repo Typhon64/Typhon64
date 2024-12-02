@@ -80,16 +80,6 @@ Systems      █████░░░░░░░   50%
   </tr>
 </table>
 
-## 🌟 Interests & Hobbies
-
-<div align="center">
-  
-  | 🎮 Gaming | 💰 Crypto | 🐧 Linux | ✏️ Drawing |
-  |-----------|-----------|----------|------------|
-  | Exploring virtual worlds | Investing & Learning | Customizing & Ricing | Digital & Traditional |
-  
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">

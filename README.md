@@ -66,7 +66,7 @@ Systems      █████░░░░░░░   50%
 <a href="#"><img src="https://img.shields.io/badge/LibreOffice-%2316C60C.svg?style=for-the-badge&logo=libreoffice&logoColor=white" alt="LibreOffice"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Cloudflare-%23006EC6.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Photoshop-%23001E36.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/></a>
+
 <a href="#"><img src="https://img.shields.io/badge/GIMP-%234A0851.svg?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-%2314A800.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Virt%20Manager-%23006699.svg?style=for-the-badge&logo=virt-manager&logoColor=white" alt="Virt Manager"/></a>

@@ -9,7 +9,7 @@
 
  #### Tools i know or/and use</td>
   
-[![My Skills](https://skillicons.dev/icons?i=vscodium,neovim,idea,git,github,vim,visualstudio,wordpress,stackoverflow,gitlab,docker,linkedin,cloudflare,arduino,atom,linux,virtualbox)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscodium,neovim,idea,git,github,vim,visualstudio,wordpress,stackoverflow,gitlab,docker,linkedin,cloudflare,arduino,electron,linux,virtualbox)](https://skillicons.dev)
 
 
   #### Operating Systems 

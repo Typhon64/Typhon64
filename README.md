@@ -31,7 +31,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Virt%20Manager-%23006699.svg?style=for-the-badge&logo=virt-manager&logoColor=white" alt="Virt Manager"/></a>
 <a href="#"><img src="https://img.shields.io/badge/VirtualBox-%233E8DCC.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/></a>
  
-    #### Operating Systems</td>
+  #### Operating Systems 
     
    <a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>
    <a href="#"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/></a>

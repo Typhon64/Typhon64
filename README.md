@@ -14,7 +14,7 @@ Cyber Security
 
   #### Operating Systems 
     
-[![OS](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows,kali)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats

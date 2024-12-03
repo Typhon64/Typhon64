@@ -8,30 +8,10 @@
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://www.w3schools.com/) [![My Backend Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Other Languages](https://skillicons.dev/icons?i=lua,c,bash)](https://github.com/typhon64)
 
  #### Tools i know or/and use</td>
-    
-<a href="#"><img src="https://skillicons.dev/icons/vscodium.svg" alt="VSCodium" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/neovim.svg" alt="NeoVim" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/intellij.svg" alt="IntelliJ IDEA" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/git.svg" alt="Git" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/github.svg" alt="GitHub" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/vim.svg" alt="Vim" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/visualstudio.svg" alt="Visual Studio" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/wordpress.svg" alt="WordPress" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/stackoverflow.svg" alt="Stack Overflow" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/gitlab.svg" alt="GitLab" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/docker.svg" alt="Docker" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/notepadplusplus.svg" alt="Notepad++" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/libreoffice.svg" alt="LibreOffice" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/obsidian.svg" alt="Obsidian" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/cloudflare.svg" alt="Cloudflare" height="40" width="40"/></a>
+  
+   [![My Skills](https://skillicons.dev/icons?i=vscodium,neovim,intellij,git,github,vim,visualstudio,wordpress,stackoverflow,gitlab,docker,linkedin,notepadplusplus,libreoffice,obsidian,cloudflare,gimp,microsoftexcel,virtmanager,virtualbox)](https://skillicons.dev)
 
-<a href="#"><img src="https://skillicons.dev/icons/gimp.svg" alt="GIMP" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/microsoftexcel.svg" alt="Microsoft Excel" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/virtmanager.svg" alt="Virt Manager" height="40" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons/virtualbox.svg" alt="VirtualBox" height="40" width="40"/></a>
 
- 
   #### Operating Systems 
     
    <a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>

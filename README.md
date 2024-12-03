@@ -9,27 +9,28 @@
 
  #### Tools i know or/and use</td>
     
-  <a href="#"><img src="https://img.shields.io/badge/VSCodium-%232C7BBF.svg?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium"/></a>
-   <a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-%231A1A1A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Vim-%23030C02.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/></a>
-<a href="#"><img src="https://img.shields.io/badge/WordPress-%234A73B5.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-%2300C7CC.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Notepad%2B%2B-%23000000.svg?style=for-the-badge&logo=notepad++&logoColor=white" alt="Notepad++"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LibreOffice-%2316C60C.svg?style=for-the-badge&logo=libreoffice&logoColor=white" alt="LibreOffice"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Cloudflare-%23006EC6.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/vscodium.svg" alt="VSCodium" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/neovim.svg" alt="NeoVim" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/intellij.svg" alt="IntelliJ IDEA" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/git.svg" alt="Git" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/github.svg" alt="GitHub" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/vim.svg" alt="Vim" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/visualstudio.svg" alt="Visual Studio" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/wordpress.svg" alt="WordPress" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/stackoverflow.svg" alt="Stack Overflow" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/gitlab.svg" alt="GitLab" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/docker.svg" alt="Docker" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/notepadplusplus.svg" alt="Notepad++" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/libreoffice.svg" alt="LibreOffice" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/obsidian.svg" alt="Obsidian" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/cloudflare.svg" alt="Cloudflare" height="40" width="40"/></a>
 
-<a href="#"><img src="https://img.shields.io/badge/GIMP-%234A0851.svg?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-%2314A800.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Virt%20Manager-%23006699.svg?style=for-the-badge&logo=virt-manager&logoColor=white" alt="Virt Manager"/></a>
-<a href="#"><img src="https://img.shields.io/badge/VirtualBox-%233E8DCC.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/gimp.svg" alt="GIMP" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/microsoftexcel.svg" alt="Microsoft Excel" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/virtmanager.svg" alt="Virt Manager" height="40" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons/virtualbox.svg" alt="VirtualBox" height="40" width="40"/></a>
+
  
   #### Operating Systems 
     

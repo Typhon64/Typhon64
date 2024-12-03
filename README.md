@@ -16,6 +16,16 @@
 [![OS](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows)](https://skillicons.dev)
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=typhon64&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&layout=compact&theme=tokyonight)
+  
+</div>
+
 ## 🤝 Contact me
 
 <div align="center">

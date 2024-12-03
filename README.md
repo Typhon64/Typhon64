@@ -2,7 +2,7 @@
 <img src="https://moe-counter.glitch.me/get/@:typhon64?theme=rule34">  
 </div>
 
-> *There is a lot to learn* 
+> *I'm learning there's a lot to learn* 
 ## 🥸 About Me
 Cyber Security
 #### Languages i know

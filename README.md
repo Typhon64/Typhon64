@@ -6,7 +6,7 @@
 ## 🥸 About Me
 Cyber Security
 #### Languages i know
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,)](https://www.w3schools.com/) [![My Backend Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Other Languages](https://skillicons.dev/icons?i=bash)](https://github.com/typhon64)
+[![My Frontend Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/) Languages](https://skillicons.dev/icons?i=bash)](https://github.com/typhon64)
 
  #### Tools i know or/and use</td>
   

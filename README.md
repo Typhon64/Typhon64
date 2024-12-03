@@ -23,7 +23,8 @@ Cyber Security
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=typhon64&theme=Tokyo night )](https://git.io/streak-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=typhon64&theme=Tokyo night )]
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&layout=compact&theme=tokyonight)
   
 </div>
 

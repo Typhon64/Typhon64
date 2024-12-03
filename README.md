@@ -3,7 +3,7 @@
 </div>
 
 > *There is a lot to learn* 
-##  About Me
+## 🥸 About Me
 Cyber Security
 #### Languages i know
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://www.w3schools.com/) [![My Backend Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![Other Languages](https://skillicons.dev/icons?i=lua,c,bash)](https://github.com/typhon64)

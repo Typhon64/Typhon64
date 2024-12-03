@@ -23,7 +23,7 @@ Cyber Security
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=typhon641&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=typhon64&theme=dark)
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&layout=compact&theme=tokyonight)
   
 </div>

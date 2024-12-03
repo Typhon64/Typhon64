@@ -14,10 +14,8 @@
 
   #### Operating Systems 
     
-   <a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>
-   <a href="#"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/></a>
-     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Windows%2011-%23008CFF.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/></a>
+[![OS](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows)](https://skillicons.dev)
+
 
 ## 🤝 Contact me
 

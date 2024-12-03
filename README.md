@@ -6,8 +6,6 @@
 ## 🥸 About Me
 Cyber Security 
 
-Project list:
-
 #### Languages i know
 [![My Frontend Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/) [![Other Languages](https://skillicons.dev/icons?i=bash)](https://github.com/typhon64)
 

@@ -34,8 +34,3 @@ Cyber Security
   <p>💬Connect me on Wired.</p>
   
 </div>
-
-<div align="center">
-  <img src="https://cdn4.geckoandfly.com/wp-content/uploads/2016/04/elon-musk-quotes-09.jpg" alt="Elon Musk Quote" width="600"/>
-</div>
-

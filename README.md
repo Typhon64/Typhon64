@@ -40,3 +40,6 @@ Cyber Security
   <p>💬Connect me on Wired.</p>
   
 </div>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Typhon64.png" alt="Your Image Badge" />
+

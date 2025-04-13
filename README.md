@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://moe-counter.glitch.me/get/@:typhon64?theme=rule34">  
-</div>
 
 > *I'm learning there's a lot to learn* 
 ## 🥸 About Me

@@ -1,5 +1,6 @@
-#  Welcome to My GitHub Profile!
+<img align="left" src="https://media.tenor.com/wv7Rwz7ePHQAAAAj/lain-iwakura.gif">
 
+### Hey!
 *I'm learning there's a lot to learn.*
 
 ---

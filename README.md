@@ -3,7 +3,7 @@
 ### Hey!
 *I'm learning there's a lot to learn.*
 
-[![gpg](https://img.shields.io/badge/pgp-3E4E41CBA53A8BEB-313131?style=flat&labelColor=545454&color=313131)](https://github.com/typhon.gpg) [![views](https://komarev.com/ghpvc/?username=xeome&style=flat&color=313131&label=views)](https://github.com/typhon64)
+[![gpg](https://img.shields.io/badge/pgp-:3-313131?style=flat&labelColor=545454&color=313131)](https://github.com/typhon.gpg) [![views](https://komarev.com/ghpvc/?username=typhon64&style=flat&color=313131&label=views)](https://github.com/typhon64)
 
 <br>
 

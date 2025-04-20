@@ -39,7 +39,7 @@ I'm passionate about **Cyber Security** and constantly exploring new tools, lang
   <a href="mailto:your-email@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
-  <p>💬 Connect with me on <a href="https://wire.com">Wire</a>.</p>
+  <p>💬 Connect with me on wired
 </div>
 
 ---
@@ -51,4 +51,3 @@ I'm passionate about **Cyber Security** and constantly exploring new tools, lang
 
 ---
 
-*Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate!*

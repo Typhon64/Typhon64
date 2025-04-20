@@ -8,7 +8,7 @@
 <br>
 
 
-I'm passionate about **Cyber Security** and constantly exploring new tools, languages, and technologies to enhance my skills.
+I'm
 
 ### Languages I Know
 [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) 

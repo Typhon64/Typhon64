@@ -1,10 +1,10 @@
-# 👋 Welcome to My GitHub Profile!
+#  Welcome to My GitHub Profile!
 
 *I'm learning there's a lot to learn.*
 
 ---
 
-## 🥸 About Me
+##  About Me
 
 I'm passionate about **Cyber Security** and constantly exploring new tools, languages, and technologies to enhance my skills.
 
@@ -20,12 +20,12 @@ I'm passionate about **Cyber Security** and constantly exploring new tools, lang
 
 ---
 
-## 🤖 Projects
+##  Projects
 *Coming soon! Stay tuned for exciting projects in cyber security and more.*
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=typhon64&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=typhon64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -34,7 +34,7 @@ I'm passionate about **Cyber Security** and constantly exploring new tools, lang
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 <div align="center">
   <a href="mailto:your-email@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
@@ -44,7 +44,7 @@ I'm passionate about **Cyber Security** and constantly exploring new tools, lang
 
 ---
 
-## 🏆 Badges
+##  Badges
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Typhon64.png" alt="TryHackMe Badge" />
 </div>

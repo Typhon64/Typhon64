@@ -46,10 +46,5 @@ I'm passionate about **Cyber Security** and constantly exploring new tools, lang
 
 ---
 
-##  Badges
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Typhon64.png" alt="TryHackMe Badge" />
-</div>
 
----
 

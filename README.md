@@ -1,42 +1,54 @@
+# 👋 Welcome to My GitHub Profile!
 
-> *I'm learning there's a lot to learn* 
+*I'm learning there's a lot to learn.*
+
+---
+
 ## 🥸 About Me
-Cyber Security 
 
-#### Languages i know
-[![My Frontend Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/) [![Other Languages](https://skillicons.dev/icons?i=bash)](https://github.com/typhon64)
+I'm passionate about **Cyber Security** and constantly exploring new tools, languages, and technologies to enhance my skills.
 
- #### Tools i know or/and use</td>
-  
-[![My Skills](https://skillicons.dev/icons?i=vscodium,neovim,idea,git,github,vim,visualstudio,wordpress,stackoverflow,gitlab,docker,linkedin,cloudflare,arduino,electron,linux,obsidian)](https://skillicons.dev)
+### Languages I Know
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) 
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
-  #### Operating Systems 
-    
+### Tools I Use
+[![Tools](https://skillicons.dev/icons?i=vscodium,neovim,idea,git,github,vim,visualstudio,wordpress,stackoverflow,gitlab,docker,linkedin,cloudflare,arduino,electron,linux,obsidian)](https://skillicons.dev)
+
+### Operating Systems
 [![OS](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows,kali)](https://skillicons.dev)
 
-## 🤖 Project lists (Coming soon)
+---
+
+## 🤖 Projects
+*Coming soon! Stay tuned for exciting projects in cyber security and more.*
+
+---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=typhon64&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=typhon64&theme=tokyonight&hide_border=true)
-
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=typhon64&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=typhon64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typhon64&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🤝 Contact me
+---
 
+## 🤝 Connect With Me
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:)
-  
-  <p>💬Connect me on Wired.</p>
-  
+  <a href="mailto:your-email@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  </a>
+  <p>💬 Connect with me on <a href="https://wire.com">Wire</a>.</p>
 </div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Typhon64.png" alt="Your Image Badge" />
+---
 
+## 🏆 Badges
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Typhon64.png" alt="TryHackMe Badge" />
+</div>
+
+---
+
+*Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate!*

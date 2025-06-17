@@ -11,14 +11,25 @@ https://typhon64.github.io
 
 I'm
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <!-- ProtonMail -->
-  <a href="mailto:your-email@protonmail.com" target="_blank">
+  <a href="mailto:your-email@protonmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
 
-  <!-- Session ID 1 -->
-  <a href="https://session.example.com/session-id-1" target="_blank">
-    <img src="https://img.shields.io/badge/Session%20ID%201-00C853?style=for-the-badge&logo=session&logoColor=white" alt="Session ID 1" />
+  <!-- Session(Copy on click) -->
+  <a href="#" onclick="copySessionID()" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Session%20ID-00C853?style=for-the-badge&logo=session&logoColor=white" alt="Session ID" />
   </a>
 </div>
+
+<script>
+  function copySessionID() {
+    const sessionID = "05b2d4ce8c2dc8a..."; // <--
+    navigator.clipboard.writeText(sessionID).then(function () {
+      alert("Session ID copy");
+    }, function (err) {
+      alert("failed" + err);
+    });
+  }
+</script>

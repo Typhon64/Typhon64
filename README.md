@@ -10,7 +10,7 @@ https://typhon64.github.io
 <br>
 Check out my site or look at my projects to get to know me better.
 <div align="center">
-
+<br>
 <!-- ProtonMail Badge -->
 <a href="mailto:your-email@protonmail.com" target="_blank">
   <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />

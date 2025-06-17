@@ -11,25 +11,21 @@ https://typhon64.github.io
 
 I'm
 
-<div align="center" style="margin-bottom: 20px;">
-  <!-- ProtonMail -->
-  <a href="mailto:your-email@protonmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
-  </a>
+<div align="center">
 
-  <!-- Session(Copy on click) -->
-  <a href="#" onclick="copySessionID()" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Session%20ID-00C853?style=for-the-badge&logo=session&logoColor=white" alt="Session ID" />
-  </a>
+<!-- ProtonMail Badge -->
+<a href="mailto:your-email@protonmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+</a>
+
+<!-- Session Badge (sadece görsel) -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Session%20ID-00C853?style=for-the-badge&logo=session&logoColor=white" alt="Session ID" />
+</a>
+
 </div>
 
-<script>
-  function copySessionID() {
-    const sessionID = "05b2d4ce8c2dc8a..."; // <--
-    navigator.clipboard.writeText(sessionID).then(function () {
-      alert("Session ID copy");
-    }, function (err) {
-      alert("failed" + err);
-    });
-  }
-</script>
+---
+
+### 🔐 Session ID
+

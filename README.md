@@ -12,13 +12,9 @@ https://typhon64.github.io
 I'm
 
 
+<div align="center">
   <a href="mailto:your-email@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
-  <p>💬 Connect with me on wired
-</div>
-
----
-
 
 

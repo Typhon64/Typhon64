@@ -11,10 +11,14 @@ https://typhon64.github.io
 
 I'm
 
-
 <div align="center">
-  <a href="mailto:your-email@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  <!-- ProtonMail -->
+  <a href="mailto:your-email@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
 
-
+  <!-- Session ID 1 -->
+  <a href="https://session.example.com/session-id-1" target="_blank">
+    <img src="https://img.shields.io/badge/Session%20ID%201-00C853?style=for-the-badge&logo=session&logoColor=white" alt="Session ID 1" />
+  </a>
+</div>

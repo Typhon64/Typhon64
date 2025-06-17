@@ -18,14 +18,4 @@ I'm
   <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
 </a>
 
-<!-- Session Badge (sadece görsel) -->
-<a href="#">
-  <img src="https://img.shields.io/badge/Session%20ID-00C853?style=for-the-badge&logo=session&logoColor=white" alt="Session ID" />
-</a>
-
-</div>
-
----
-
-### 🔐 Session ID
 

@@ -8,9 +8,3 @@
 ---
 
 Check out my site or browse my projects to get to know me better.
-
-<div align="center">
-<a href="mailto:your-email@protonmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
-</a>
-</div>

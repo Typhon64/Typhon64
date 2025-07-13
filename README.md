@@ -6,8 +6,7 @@
   <br>
 
   <!-- Ortalanmış GIF sabit boyutta -->
-  <img src="https://i.pinimg.com/originals/75/fe/ec/75feec7d2a02e8095331ae310025653b.gif" alt="Cyber GIF" style="height:19
-    0px; display:block; margin:auto;">
+  <img src="https://i.pinimg.com/originals/75/fe/ec/75feec7d2a02e8095331ae310025653b.gif" alt="Cyber GIF" style="height:185px; display:block; margin:auto;">
 
   <br>
 

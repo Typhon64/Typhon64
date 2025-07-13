@@ -12,11 +12,11 @@
 
   <!-- Badge'ler (çizgi yok, tam uyumlu) -->
   <p>
-    <a href="https://github.com/typhon64" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/PGP-%3A3-ffffff?style=flat-square&labelColor=000000&color=000000">
+    <a href="https://github.com/typhon64" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/PGP-%3A3-ffffff?style=flat-square&labelColor=000000&color=ffffff" alt="PGP Badge">
     </a>
-    <a href="https://github.com/typhon64" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Views-●-ffffff?style=flat-square&labelColor=000000&color=000000">
+    <a href="https://github.com/typhon64" style="text-decoration:none;">
+      <img src="https://komarev.com/ghpvc/?username=typhon64&style=flat-square&color=ffffff&label=views" alt="Views Badge">
     </a>
   </p>
 
@@ -24,7 +24,7 @@
 
   <!-- GitHub Stats -->
   <a href="https://github.com/typhon64">
-    <img src="https://github-readme-stats.vercel.app/api?username=typhon64&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api?username=typhon64&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="GitHub Stats">
   </a>
 
   <br>

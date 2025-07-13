@@ -27,7 +27,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=typhon64&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="GitHub Stats">
   </a>
 
-  <br><br>
+  <br>
+
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=typhon64&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph">

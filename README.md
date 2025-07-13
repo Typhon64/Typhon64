@@ -32,7 +32,7 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=typhon64&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
 
-  <br>
+  <br> <br>
 
   <!-- Alt yazı -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=That's+enough.">

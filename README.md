@@ -1,25 +1,26 @@
 <div align="center">
 
-  <!-- Üst kısa animasyon yazılar -->
+  <!-- Üst yazı -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Who+am+I%3F;What+am+I%3F">
 
-  <!-- Sol yazılar + sağda gif -->
+  <!-- Yazı + GIF hizalı şekilde -->
   <table>
     <tr>
-      <!-- Sol taraf: badge'ler -->
-      <td align="center">
-        <a href="https://github.com/typhon64">
-          <img src="https://img.shields.io/badge/PGP-%3A3-000000?style=flat-square&labelColor=000000&color=ffffff">
-        </a>
-        <br>
-        <a href="https://github.com/typhon64">
-          <img src="https://komarev.com/ghpvc/?username=typhon64&style=flat-square&color=000000&label=views">
-        </a>
+      <!-- Sol taraf: Yazı ve badge -->
+      <td align="center" style="vertical-align: top; padding-right: 20px;">
+        <p>
+          <a href="https://github.com/typhon64">
+            <img src="https://img.shields.io/badge/PGP-%3A3-000000?style=flat-square&labelColor=000000&color=ffffff">
+          </a>
+          <a href="https://github.com/typhon64">
+            <img src="https://komarev.com/ghpvc/?username=typhon64&style=flat-square&color=000000&label=views">
+          </a>
+        </p>
       </td>
 
       <!-- Sağ taraf: GIF -->
-      <td>
-        <img src="https://giffiles.alphacoders.com/256/2567.gif" alt="Cyber GIF" style="height:160px;">
+      <td align="center" style="vertical-align: top;">
+        <img src="https://giffiles.alphacoders.com/256/2567.gif" alt="Cyber GIF" style="height:150px; border-radius:4px;">
       </td>
     </tr>
   </table>

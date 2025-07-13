@@ -2,7 +2,7 @@
 
   <!-- Üst animasyon yazı -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Who+am+I%3F;What+am+I%3F">
-
+<br>
   <!-- Ortalanmış GIF sabit boyutta -->
   <img src="https://giffiles.alphacoders.com/256/2567.gif" alt="Cyber GIF" style="height:160px; display:block; margin:auto;">
 

@@ -1,20 +1,28 @@
 <div align="center">
 
-  <!-- Üst animasyon yazı -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=System+Status:+Nominal.;Monitoring+Active.">
+  <!-- Üst kısa animasyon yazılar -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Who+am+I%3F;What+am+I%3F">
 
-  <!-- Yeni GIF -->
-  <img src="https://giffiles.alphacoders.com/256/2567.gif" alt="Cyber GIF" style="max-width: 100%;">
+  <!-- Sol yazılar + sağda gif -->
+  <table>
+    <tr>
+      <!-- Sol taraf: badge'ler -->
+      <td align="center">
+        <a href="https://github.com/typhon64">
+          <img src="https://img.shields.io/badge/PGP-%3A3-000000?style=flat-square&labelColor=000000&color=ffffff">
+        </a>
+        <br>
+        <a href="https://github.com/typhon64">
+          <img src="https://komarev.com/ghpvc/?username=typhon64&style=flat-square&color=000000&label=views">
+        </a>
+      </td>
 
-  <!-- Badge'ler -->
-  <p>
-    <a href="https://github.com/typhon64">
-      <img src="https://img.shields.io/badge/PGP-%3A3-000000?style=flat-square&labelColor=000000&color=ffffff">
-    </a>
-    <a href="https://github.com/typhon64">
-      <img src="https://komarev.com/ghpvc/?username=typhon64&style=flat-square&color=000000&label=views">
-    </a>
-  </p>
+      <!-- Sağ taraf: GIF -->
+      <td>
+        <img src="https://giffiles.alphacoders.com/256/2567.gif" alt="Cyber GIF" style="height:160px;">
+      </td>
+    </tr>
+  </table>
 
   <!-- GitHub Stats -->
   <a href="https://github.com/typhon64">
@@ -24,7 +32,7 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=typhon64&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
 
-  <!-- Alt animasyon yazı -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Protocol+Complete.;Glory+to+Mankind.">
+  <!-- Alt yazı -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=That's+enough.">
 
 </div>

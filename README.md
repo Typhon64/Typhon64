@@ -2,15 +2,14 @@
 
   <!-- Üst animasyon yazı -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=System+Status:+Nominal.;Monitoring+Active.">
-  <br>
 
-  <!-- Lain GIF -->
-  <img src="https://media.tenor.com/wv7Rwz7ePHQAAAAj/lain-iwakura.gif" alt="Lain" style="max-width: 100%;">
+  <!-- Yeni GIF -->
+  <img src="https://giffiles.alphacoders.com/256/2567.gif" alt="Cyber GIF" style="max-width: 100%;">
 
   <!-- Badge'ler -->
   <p>
     <a href="https://github.com/typhon64">
-      <img src="https://img.shields.io/badge/PGP-%3A3-000000?style=flat-square&labelColor=000000&color=ffffff&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/PGP-%3A3-000000?style=flat-square&labelColor=000000&color=ffffff">
     </a>
     <a href="https://github.com/typhon64">
       <img src="https://komarev.com/ghpvc/?username=typhon64&style=flat-square&color=000000&label=views">

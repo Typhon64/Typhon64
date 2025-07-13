@@ -6,7 +6,7 @@
   <br>
 
   <!-- Ortalanmış GIF sabit boyutta -->
-  <img src="https://giffiles.alphacoders.com/171/171343.gif" alt="Cyber GIF" style="height:160px; display:block; margin:auto;">
+  <img src="https://i.pinimg.com/originals/75/fe/ec/75feec7d2a02e8095331ae310025653b.gif" alt="Cyber GIF" style="height:160px; display:block; margin:auto;">
 
   <br>
 

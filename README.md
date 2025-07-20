@@ -1,6 +1,6 @@
 <div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Examine+To+Know%3F;...%3F" /> <br><br>
-  <img src="https://i.pinimg.com/originals/75/fe/ec/75feec7d2a02e8095331ae310025653b.gif" alt="Lain Iwakura" width="320" height="320" style="margin-bottom: 10px;" /><br>
+  <img src="https://lh5.googleusercontent.com/proxy/PKWSzDqZ-3nlhPhoDS5lwj5ZuM18pPbcIR_jnQ0Di1Gy_ZFFL2i9Y_gr255-FdH0Kb4ofYg_jDzo3WHym1dn" alt="Lain Iwakura" width="320" height="320" style="margin-bottom: 10px;" /><br>
   Visit my website <br>
   https://typhon64.github.io
   <br><br>
